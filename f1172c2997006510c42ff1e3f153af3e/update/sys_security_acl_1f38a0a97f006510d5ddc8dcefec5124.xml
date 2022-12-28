@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>ACL for Get approver sysId data broker</description>
+        <name>9f38a0a90f006510b1aa8095efb44a24</name>
+        <operation display_value="execute">execute</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-28 06:52:06</sys_created_on>
+        <sys_id>1f38a0a97f006510d5ddc8dcefec5124</sys_id>
+        <sys_name>9f38a0a90f006510b1aa8095efb44a24</sys_name>
+        <sys_package display_value="Emprod" source="x_960828_emprod">f1172c2997006510c42ff1e3f153af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Emprod">f1172c2997006510c42ff1e3f153af3e</sys_scope>
+        <sys_update_name>sys_security_acl_1f38a0a97f006510d5ddc8dcefec5124</sys_update_name>
+        <type display_value="ux_data_broker">6d9c40e9531210101cb3ddeeff7b12f6</type>
+    </sys_security_acl>
+</record_update>

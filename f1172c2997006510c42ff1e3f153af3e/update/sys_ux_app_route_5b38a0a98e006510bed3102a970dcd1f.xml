@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_app_route">
+    <sys_ux_app_route action="INSERT_OR_UPDATE">
+        <app_config display_value="Emprod Config">033860a997006510c42ff1e3f153afba</app_config>
+        <description/>
+        <extension_point/>
+        <fields/>
+        <icon/>
+        <name>Additional details</name>
+        <optional_parameters/>
+        <order>100</order>
+        <parent_macroponent display_value="Record Page(request)">d338a0a94c00651021abeec8568b0c20</parent_macroponent>
+        <parent_macroponent_composition_element_id>tab_set_1</parent_macroponent_composition_element_id>
+        <route_type>rec_req_add</route_type>
+        <screen_type display_value="Additional details">d738a0a9390065103caa23e41bb2391f</screen_type>
+        <sys_class_name>sys_ux_app_route</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-28 06:52:05</sys_created_on>
+        <sys_id>5b38a0a98e006510bed3102a970dcd1f</sys_id>
+        <sys_name>Additional details</sys_name>
+        <sys_package display_value="Emprod" source="x_960828_emprod">f1172c2997006510c42ff1e3f153af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Emprod">f1172c2997006510c42ff1e3f153af3e</sys_scope>
+        <sys_update_name>sys_ux_app_route_5b38a0a98e006510bed3102a970dcd1f</sys_update_name>
+    </sys_ux_app_route>
+    <sys_translated_text action="delete_multiple" query="documentkey=5b38a0a98e006510bed3102a970dcd1f"/>
+</record_update>

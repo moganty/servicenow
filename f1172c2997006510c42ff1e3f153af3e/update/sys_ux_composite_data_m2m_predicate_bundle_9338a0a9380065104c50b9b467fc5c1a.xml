@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_m2m_predicate_bundle">
+    <sys_ux_composite_data_m2m_predicate_bundle action="INSERT_OR_UPDATE">
+        <dataset display_value="Custom Portal Landing - My Requests Dataset">db38a0a997006510e41bd79f6c4c931b</dataset>
+        <order/>
+        <predicate_bundle display_value="My request - task bundle">9738a0a9260065108d831c1d26ae741a</predicate_bundle>
+        <sys_class_name>sys_ux_composite_data_m2m_predicate_bundle</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-28 06:52:07</sys_created_on>
+        <sys_id>9338a0a9380065104c50b9b467fc5c1a</sys_id>
+        <sys_name/>
+        <sys_package display_value="Emprod" source="x_960828_emprod">f1172c2997006510c42ff1e3f153af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Emprod">f1172c2997006510c42ff1e3f153af3e</sys_scope>
+        <sys_update_name>sys_ux_composite_data_m2m_predicate_bundle_9338a0a9380065104c50b9b467fc5c1a</sys_update_name>
+    </sys_ux_composite_data_m2m_predicate_bundle>
+</record_update>

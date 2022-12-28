@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Public">1738a0a90a006510889ebf34dc010d26</applicability>
+        <order>0</order>
+        <screen display_value="Login Default">1338a0a9c10065107cbd736577e62021</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-28 06:52:06</sys_created_on>
+        <sys_id>9338a0a9b40065108551c25c0eae2121</sys_id>
+        <sys_name/>
+        <sys_package display_value="Emprod" source="x_960828_emprod">f1172c2997006510c42ff1e3f153af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Emprod">f1172c2997006510c42ff1e3f153af3e</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_9338a0a9b40065108551c25c0eae2121</sys_update_name>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

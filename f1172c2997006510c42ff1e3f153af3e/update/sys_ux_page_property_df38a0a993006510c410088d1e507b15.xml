@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>chrome_header</name>
+        <page display_value="Emprod">1f38a0a9c1006510e657335a05462213</page>
+        <required_translations>[]</required_translations>
+        <route display_value="Search Page">5338a0a93f006510e97456cf7dab101f</route>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-28 06:52:07</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>df38a0a993006510c410088d1e507b15</sys_id>
+        <sys_name>chrome_header</sys_name>
+        <sys_package display_value="Emprod" source="x_960828_emprod">f1172c2997006510c42ff1e3f153af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Emprod">f1172c2997006510c42ff1e3f153af3e</sys_scope>
+        <sys_update_name>sys_ux_page_property_df38a0a993006510c410088d1e507b15</sys_update_name>
+        <type>json</type>
+        <unique_name>x_960828_emprod.1f38a0a9c1006510e657335a05462213.route.chrome_header.5338a0a93f006510e97456cf7dab101f</unique_name>
+        <value>{&#13;
+    "privatePage":{&#13;
+       "searchEnabled": false&#13;
+    }&#13;
+}&#13;
+</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=df38a0a993006510c410088d1e507b15"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>custom_portal_settings_x_960828_emprod</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-28 06:52:07</sys_created_on>
+        <sys_id>1738a0a9300065102177991f30bb4122</sys_id>
+        <sys_name>Custom portal settings (x_960828_emprod)</sys_name>
+        <sys_package display_value="Emprod" source="x_960828_emprod">f1172c2997006510c42ff1e3f153af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Emprod">f1172c2997006510c42ff1e3f153af3e</sys_scope>
+        <sys_update_name>sys_ui_view_1738a0a9300065102177991f30bb4122</sys_update_name>
+        <title>Custom portal settings (x_960828_emprod)</title>
+        <user/>
+    </sys_ui_view>
+</record_update>

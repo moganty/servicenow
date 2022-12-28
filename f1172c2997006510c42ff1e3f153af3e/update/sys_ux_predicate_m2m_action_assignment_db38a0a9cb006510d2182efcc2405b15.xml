@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_predicate_m2m_action_assignment">
+    <sys_ux_predicate_m2m_action_assignment action="INSERT_OR_UPDATE">
+        <declarative_action_assignment display_value="reject">d338a0a95f006510a7639a5c50dd8726</declarative_action_assignment>
+        <predicate display_value="My Tasks">d338a0a99c006510f660cd33e2f74219</predicate>
+        <sys_class_name>sys_ux_predicate_m2m_action_assignment</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-12-28 06:52:07</sys_created_on>
+        <sys_id>db38a0a9cb006510d2182efcc2405b15</sys_id>
+        <sys_name/>
+        <sys_package display_value="Emprod" source="x_960828_emprod">f1172c2997006510c42ff1e3f153af3e</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Emprod">f1172c2997006510c42ff1e3f153af3e</sys_scope>
+        <sys_update_name>sys_ux_predicate_m2m_action_assignment_db38a0a9cb006510d2182efcc2405b15</sys_update_name>
+    </sys_ux_predicate_m2m_action_assignment>
+</record_update>
